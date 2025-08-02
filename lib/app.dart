@@ -9,6 +9,7 @@ import 'package:flutter_1/module%209/module_9_class2.dart';
 import 'package:flutter_1/module%209/widget/ownWidget.dart';
 import 'package:flutter_1/module 10/greating_app_assignment.dart';
 import 'package:flutter_1/module 9/module_9_class3.dart';
+import 'package:flutter_1/module 10/live_exam.dart';
 
 
 import 'flutter_class_3.dart';
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget{
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Batch 11 flutter',
-      home: GreatingAppAssignment(),
+      home: Exam(),
 
     );
   }

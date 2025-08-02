@@ -6,7 +6,7 @@ class GreatingAppAssignment extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Greating App'),
+        title: Text('Greeting App'),
       ),
       body: Center(
     child: Column(
